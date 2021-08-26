@@ -1,4 +1,4 @@
-### Hi there :punch:
+### Hi there :wave:
 [![Icloud Badge](https://img.shields.io/badge/-andreirosu97@gmail.com-7D7D7D?style=flat&logo=iCloud&logoColor=white)](mailto:andreirosu97@gmail.com "Connect via Email")
 <br/><br/>
 ###### Thank you for visiting my profile! :raised_hands:
