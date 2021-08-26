@@ -14,7 +14,7 @@
 
 ![Andrei's github stats](https://github-readme-stats.vercel.app/api?username=andreirosu97&show_icons=true&count_private=true&hide=issues,contribs)
 
-## Me on Internet :globe_with_meridians:
+## Me on the Internet :globe_with_meridians:
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/andrei.rosu1001/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/andrei.rosu0110/)
