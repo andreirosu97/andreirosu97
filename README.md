@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roşu Andrei
 ===================================================================================================================================
 
-Full Stack Developer
+Full Stack Developer 
 --------------------
 
 I've starded my developer journey 5 years ago as a C++ developer. As a time passed I switched to TS and now I'm a fullstack developer for Amdaris. Currently working on my own dream with ATOM Coding, a startup founded by me and 3 friends. On the side I'm a software developer and owner of a GTA5 RageMP server.
